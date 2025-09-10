@@ -9,10 +9,10 @@ It’s not code itself, but more like a blueprint, guideline, or template that c
 ## Categories of Design Patterns (from Gang of Four, GoF book):
 
 1. Creational patterns – Deal with object creation.
-   - Singleton, Factory, Builder, Prototype.
+   Examples: Singleton, Factory, Builder, Prototype.
 
 2. Structural patterns – Deal with class/object composition.
-   - Adapter, Composite, Decorator, Facade, Proxy.
+   Examples: Adapter, Composite, Decorator, Facade, Proxy.
 
 3. Behavioral patterns – Deal with communication/interaction between objects.
-   - Observer, Strategy, Command, Iterator, State.
+   Examples: Observer, Strategy, Command, Iterator, State.
